@@ -43,7 +43,7 @@ more reliably than they reveal it in generation. We call the difference the
 ## Repository layout
 
 ```
-cmb-llm/
+cmb-11m/
 ├── harness/            # Core modules: datasets, inference, probes, judge,
 │                       #   metrics, paired contrast, R-Restoration, pilots
 ├── notebooks/          # Colab-paste cells for every pipeline step
