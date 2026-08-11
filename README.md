@@ -1,5 +1,7 @@
 # CMB-LLM: The Expression Gap
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21881774.svg)](https://doi.org/10.5281/zenodo.21881774)
+
 **Probing what language models know but don't say.**
 
 Code, benchmarks, and intervention artifacts for a study showing that
@@ -83,9 +85,10 @@ Datasets: CC-BY-4.0. Code: MIT.
 
 ## Citation
 
-Manuscript under review. Citation entry and DOI will be added on deposit.
+Manuscript under review. Code and benchmarks are archived at Zenodo: DOI [10.5281/zenodo.21881774](https://doi.org/10.5281/zenodo.21881774) (v1.0.0, August 2026).
 
 ## Status
 
 Active research code, submitted for ICLR 2027 review cycle. Reproducibility
 verified across two seeds (23, 42).
+
